@@ -1,0 +1,10 @@
+.gallery {
+    width: 15vw;
+    height: 45vh;
+    background-color: black;
+}
+.gallery img {
+    width: 15vw;
+    height: 45vh;
+    object-fit: cover;
+}
